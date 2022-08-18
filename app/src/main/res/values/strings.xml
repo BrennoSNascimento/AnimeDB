@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">AnimeDB</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="Time">Movie Time : </string>
+    <string name="Rank">Rating : </string>
+    <string name="min"> min</string>
+</resources>
